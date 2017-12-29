@@ -1,0 +1,31 @@
+From: <Saved by Blink>
+Subject: california.py example
+Date: Fri, 28 Dec 2017 16:05:12 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--euxYfloTSIlAPYrhnOvdPhICNsMO7809ZATlwDNYux----"
+
+------MultipartBoundary--euxYfloTSIlAPYrhnOvdPhICNsMO7809ZATlwDNYux----
+Content-Type: text/html
+Content-ID: <frame-66-eb6c822c-2eaa-43f4-98d3-577e55cbf532@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/snowh/OneDrive/Github/Visualization/Matering_python_Visualization/california.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+       =20
+        <title>california.py example</title>
+       =20
+<link rel=3D"stylesheet" href=3D"https://cdn.pydata.org/bokeh/release/bokeh=
+-0.12.13.min.css" type=3D"text/css">
+       =20
+</head></html>
+------MultipartBoundary--euxYfloTSIlAPYrhnOvdPhICNsMO7809ZATlwDNYux----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cdn.pydata.org/bokeh/release/bokeh-0.12.13.min.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--euxYfloTSIlAPYrhnOvdPhICNsMO7809ZATlwDNYux------
